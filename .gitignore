@@ -2,4 +2,4 @@ ffmpeg.exe
 optipng.exe
 vid.mp4
 
-packs_output/
+packs_output/*
